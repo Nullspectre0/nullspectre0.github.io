@@ -1,0 +1,42 @@
+# NullSpectre — Portfolio
+
+Hi 👋  
+I’m **NullSpectre**, a 13-year-old web developer focused on building clean, functional front-end projects.
+
+This repository contains my personal portfolio and selected projects.
+
+---
+
+## 🚀 Projects
+
+### 🔹 ChatFull (Front-End Demo)
+A minimal chatroom-style web app UI where users can:
+- Create a chatroom
+- Join a chatroom using a code
+- Experience a clean, modern layout
+
+> ⚠️ This is a **front-end demo only**. No real backend or database is connected.
+
+🔗 Live Demo: https://nullspectre0.github.io/chatfull/index.html
+📁 Source Code: `/ChatFull`
+
+---
+
+## 🛠 Skills
+- HTML5
+- CSS3 (Flexbox, layout, UI design)
+- JavaScript (DOM, events, basic logic)
+- UI/UX fundamentals
+- Front-end prototyping
+
+---
+
+## 🎯 Goals
+- Improve front-end & JavaScript skills
+- Learn backend development in the future
+- Work on real-world projects and internships
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/NullSpectre0
