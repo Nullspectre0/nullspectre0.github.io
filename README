@@ -15,9 +15,9 @@ A minimal chatroom-style web app UI where users can:
 - Join a chatroom using a code
 - Experience a clean, modern layout
 
-> ⚠️ This is a **front-end demo only**. No real backend or database is connected.
+> ⚠️ This is a front-end demo only No real backend or database is connected.
 
-![image alt](https://raw.githubusercontent.com/NullSpectre0/nullspectre0.github.io/main/chatfull/preview.png)
+(https://raw.githubusercontent.com/NullSpectre0/nullspectre0.github.io/main/chatfull/preview.png)
 
 🔗 Live Demo: https://nullspectre0.github.io/chatfull/index.html
 📁 Source Code: `/chatFull`
